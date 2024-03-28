@@ -57,10 +57,10 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MENTIONED": [
-            "FFFFFF"
+            "FF7400"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#FF7400"
