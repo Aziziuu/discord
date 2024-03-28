@@ -69,10 +69,10 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "450097"
