@@ -1,14 +1,8 @@
-const converted = {
-  "@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@100;300;400;500;700&display=swap')": true,
-  "@import url('https://discordstyles.github.io/SoftX/SoftX.css')": true,
-  "@import url('https://discordstyles.github.io/SoftX/RadialGlow.css')": true,
-  "@import url('https://discordstyles.github.io/SoftX/VerticalUserArea.css')": true,
-  "@import url('https://discordstyles.github.io/Addons/windows-titlebar.css')": true,
-  ":root": {
-    "--background-image":
-      "url('https://raw.githubusercontent.com/Aziziuu/discord/main/background%20(1).jpg')",
-    "--background-blur": "0px",
-    "--opacity": "0.53",
+"@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@100;300;400;500;700&display=swap')": true,
+"@import url('https://discordstyles.github.io/SoftX/SoftX.css')": true,
+"@import url('https://discordstyles.github.io/SoftX/RadialGlow.css')": true,
+"@import url('https://discordstyles.github.io/SoftX/VerticalUserArea.css')": true,
+"@import url('https://discordstyles.github.io/Addons/windows-titlebar.css')": true,
     "--accent": "255,0,107",
     "--glow-intensity": "0.3",
     "--font": "Cabin Sketch",
@@ -33,4 +27,27 @@ const converted = {
     "--rs-phone-visible": "block",
     "--rs-invisible-color": "#747f8d"
   }
+}
+
+interface Theme {
+  name: "Dreaming Tremors";
+  description: "I like to tease and play with boys in their sleep.";
+  authors: {
+    name: "karubulot";
+    id: "694855596364791858";
+  }[];
+  spec: 2;
+  semanticColors: {
+	"HEADER_PRIMARY": [
+            "#FC0162"
+        ],
+  };
+  rawColors: {
+    [rawKey: string]: string;
+  };
+  background: {
+    blur: 0;
+    url: "https://raw.githubusercontent.com/Aziziuu/discord/94c15ec97af22f7788043f6dace05ec74944ff84/background%20(1).jpg";
+    alpha: 0.5;
+  };
 }
