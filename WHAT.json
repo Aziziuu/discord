@@ -1,0 +1,22 @@
+interface Theme {
+  name: "Dreaming Tremors";
+  description: "I like to tease and play with boys in their sleep.";
+  authors: {
+    name: "karubulot";
+    id: "694855596364791858";
+  }[];
+  spec: 2;
+  semanticColors: {
+	"HEADER_PRIMARY": [
+            "#FC0162"
+        ],
+  };
+  rawColors: {
+    [rawKey: string]: string;
+  };
+  background: {
+    blur: 0;
+    url: "https://raw.githubusercontent.com/Aziziuu/discord/94c15ec97af22f7788043f6dace05ec74944ff84/background%20(1).jpg";
+    alpha: 0.5;
+  };
+}
