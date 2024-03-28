@@ -1,0 +1,36 @@
+const converted = {
+  "@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@100;300;400;500;700&display=swap')": true,
+  "@import url('https://discordstyles.github.io/SoftX/SoftX.css')": true,
+  "@import url('https://discordstyles.github.io/SoftX/RadialGlow.css')": true,
+  "@import url('https://discordstyles.github.io/SoftX/VerticalUserArea.css')": true,
+  "@import url('https://discordstyles.github.io/Addons/windows-titlebar.css')": true,
+  ":root": {
+    "--background-image":
+      "url('https://raw.githubusercontent.com/Aziziuu/discord/main/background%20(1).jpg')",
+    "--background-blur": "0px",
+    "--opacity": "0.53",
+    "--accent": "255,0,107",
+    "--glow-intensity": "0.3",
+    "--font": "Cabin Sketch",
+    "--channels-width": "230px",
+    "--guilds-width": "80px",
+    "--members-width": "200px",
+    "--server-size": "50px",
+    "--chat-avatar-size": "32px",
+    "--rs-small-spacing": "1px",
+    "--rs-medium-spacing": "2px",
+    "--rs-large-spacing": "3px",
+    "--rs-small-width": "1.5px",
+    "--rs-medium-width": "2px",
+    "--rs-large-width": "2.5px",
+    "--rs-avatar-shape": "50%",
+    "--rs-online-color": "#00FFAC",
+    "--rs-idle-color": "#A800FF",
+    "--rs-dnd-color": "#FF005C",
+    "--rs-offline-color": "#393842",
+    "--rs-phone-color": "#EA0505",
+    "--rs-streaming-color": "#FFBE00",
+    "--rs-phone-visible": "block",
+    "--rs-invisible-color": "#747f8d"
+  }
+}
