@@ -24,13 +24,13 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "INTERACTIVE_HOVER": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "INTERACTIVE_MUTED": [
             "#FF7400"
