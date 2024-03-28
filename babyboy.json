@@ -15,13 +15,13 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "TEXT_MUTED": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "TEXT_DANGER": [
-            "#FFFFFF"
+            "#FF7400"
         ],
         "INTERACTIVE_NORMAL": [
             "#FF7400"
