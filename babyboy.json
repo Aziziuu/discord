@@ -60,7 +60,7 @@
             "7000FF"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#10081B"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
@@ -72,10 +72,10 @@
             "#transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "transparent"
+            "6B00FF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1a1a1a"
+            "450097"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent"
