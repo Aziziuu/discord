@@ -39,43 +39,43 @@
             "#FF00E0"
         ],
         "BACKGROUND_SECONDARY": [
-            "#FF7400"
+            "#FF0000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#FF7400"
+            "#FFA157"
         ],
         "BACKGROUND_TERTIARY": [
-            "#FF7400"
+            "#FFF257"
         ],
         "BACKGROUND_ACCENT": [
-            "#FF7400"
+            "#7DFF57"
         ],
         "BACKGROUND_FLOATING": [
-            "#FF7400"
+            "#57FFC2"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#FF7400"
+            "#57F5FF"
         ],
         "BACKGROUND_MENTIONED": [
-            "FF7400"
+            "5773FF"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#FF7400"
+            "#C457FF"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FF7400"
+            "#FF57F7"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FF7400"
+            "#FF57A1"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#FF7400"
+            "#4C0404"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#FF7400"
+            "#4C2C04"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "450097"
+            "#4C4B04"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent"
