@@ -24,19 +24,19 @@
             "#FF7400"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FF7400"
+            "#FFFF00"
         ],
         "INTERACTIVE_HOVER": [
-            "#FF7400"
+            "#FF0000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FF7400"
+            "#00E0FF"
         ],
         "INTERACTIVE_MUTED": [
-            "#FF7400"
+            "#C500FF"
         ],
         "BACKGROUND_PRIMARY": [
-            "#FF7400"
+            "#FF00E0"
         ],
         "BACKGROUND_SECONDARY": [
             "#FF7400"
