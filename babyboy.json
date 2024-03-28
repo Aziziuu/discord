@@ -72,7 +72,7 @@
             "#transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "transparent"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "450097"
