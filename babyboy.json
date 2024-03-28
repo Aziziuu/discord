@@ -39,7 +39,7 @@
             "#170D25"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#310060"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -72,7 +72,7 @@
             "#transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "6B00FF"
+            "transparent"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "450097"
