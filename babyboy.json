@@ -24,10 +24,10 @@
             "#FF0000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FF0000"
+            "#FF0061"
         ],
         "INTERACTIVE_HOVER": [
-            "#DCFF00"
+            "#FF0074"
         ],
         "INTERACTIVE_ACTIVE": [
             "#A600FF"
@@ -39,7 +39,7 @@
             "#170D25"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0017FF"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
