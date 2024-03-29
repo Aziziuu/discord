@@ -12,70 +12,70 @@
             "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#FFFFFF"
+            "#7400FF"
         ],
         "TEXT_NORMAL": [
-            "#0059FF"
+            "#FCE1FF"
         ],
         "TEXT_MUTED": [
-            "#68FF00"
+            "#44007D"
         ],
         "TEXT_DANGER": [
-            "#FF7400"
+            "#FF0000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#4C3310"
+            "#FF0000"
         ],
         "INTERACTIVE_HOVER": [
-            "#858585"
+            "#DCFF00"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#00E0FF"
+            "#A600FF"
         ],
         "INTERACTIVE_MUTED": [
-            "#C500FF"
+            "#44007D"
         ],
         "BACKGROUND_PRIMARY": [
-            "#FF00E0"
+            "#170D25"
         ],
         "BACKGROUND_SECONDARY": [
-            "#858585"
+            "#0017FF"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#FFA157"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#FFF257"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#7DFF57"
+            "#2d0333"
         ],
         "BACKGROUND_FLOATING": [
-            "#57FFC2"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#57F5FF"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "5773FF"
+            "7000FF"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#C457FF"
+            "#10081B"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FF57F7"
+            "#000000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FF57A1"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#4C0404"
+            "#transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#4C2C04"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#4C4B04"
+            "450097"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent"
